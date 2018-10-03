@@ -8,7 +8,7 @@ mod 'alisio-memcached'
 mod 'alisio-mysqlserver'
 
 mod 'puppet-webserver',
-  :git => 'https://github.com/<user_github>/puppet-webserver.git',
+  :git => 'https://github.com/alisio/puppet-webserver.git',
   :branch => 'homolog'
 
 #mod 'puppet-balancer',
