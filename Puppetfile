@@ -9,7 +9,7 @@ mod 'alisio-mysqlserver'
 
 mod 'puppet-webserver',
   :git => 'https://github.com/alisio/puppet-webserver.git',
-  :branch => 'homolog'
+  :branch => 'production'
 
 #mod 'puppet-balancer',
   #:git => 'https://github.com/<user_github>/puppet-balancer.git',
